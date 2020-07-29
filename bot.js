@@ -8,7 +8,10 @@ const client3 = new Discord.Client();
 const client4 = new Discord.Client();
 const client5 = new Discord.Client();
 const client6 = new Discord.Client();
-
+const client7 = new Discord.Client();
+const client8 = new Discord.Client();
+const client9= new Discord.Client();
+const client10= new Discord.Client();
 
 //???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
 
@@ -19,7 +22,10 @@ client3.login(process.env.TOKEN3);
 client4.login(process.env.TOKEN4);
 client5.login(process.env.TOKEN5);
 client6.login(process.env.TOKEN6);
-
+client7.login(process.env.TOKEN7);
+client8.login(process.env.TOKEN);
+client9.login(process.env.TOKEN);
+client10.login(process.env.TOKEN);
 
 //???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
 
@@ -138,6 +144,79 @@ message.channel.send('#profile')
   }
 });
 
+  client7.on('message', message => {
+  if (message.content === 'd7') {
+message.channel.send('#daily')
+  }
+  if(message.content === 'c7'){
+message.channel.send('#credits')
+  }
+  if(message.content === 'r7'){
+message.channel.send("#rep "+"<@" + myid + ">")
+  }
+  if (message.content === 'p7') {
+message.channel.send('#profile')
+  }
+  if(message.content.startsWith("s7")) {
+    var text = message.content.split(' ').slice(1).join(' ');
+     message.channel.send(text);
+  }
+});
+  client8.on('message', message => {
+  if (message.content === 'd8') {
+message.channel.send('#daily')
+  }
+  if(message.content === 'c8'){
+message.channel.send('#credits')
+  }
+  if(message.content === 'r8'){
+message.channel.send("#rep "+"<@" + myid + ">")
+  }
+  if (message.content === 'p8') {
+message.channel.send('#profile')
+  }
+  if(message.content.startsWith("s8")) {
+    var text = message.content.split(' ').slice(1).join(' ');
+     message.channel.send(text);
+  }
+});
+   client9.on('message', message => {
+  if (message.content === 'd9') {
+message.channel.send('#daily')
+  }
+  if(message.content === 'c9'){
+message.channel.send('#credits')
+  }
+  if(message.content === 'r9'){
+message.channel.send("#rep "+"<@" + myid + ">")
+  }
+  if (message.content === 'p9') {
+message.channel.send('#profile')
+  }
+  if(message.content.startsWith("s9")) {
+    var text = message.content.split(' ').slice(1).join(' ');
+     message.channel.send(text);
+  }
+});
+   client10.on('message', message => {
+  if (message.content === 'd10') {
+message.channel.send('#daily')
+  }
+  if(message.content === 'c10'){
+message.channel.send('#credits')
+  }
+  if(message.content === 'r10'){
+message.channel.send("#rep "+"<@" + myid + ">")
+  }
+  if (message.content === 'p10') {
+message.channel.send('#profile')
+  }
+  if(message.content.startsWith("s10")) {
+    var text = message.content.split(' ').slice(1).join(' ');
+     message.channel.send(text);
+  }
+});
+
 
 //???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
 
@@ -178,6 +257,29 @@ client6.on('message', message => {
     }
 });
 
+ client7.on('message', message => {
+    if(message.content === prefix+'number'){
+        message.channel.send(" My Token Is ``7`` ")
+    }
+});
+  
+  client8.on('message', message => {
+    if(message.content === prefix+'number'){
+        message.channel.send(" My Token Is ``8`` ")
+    }
+});
+
+   client9.on('message', message => {
+    if(message.content === prefix+'number'){
+        message.channel.send(" My Token Is ``9`` ")
+    }
+});
+    client10.on('message', message => {
+    if(message.content === prefix+'number'){
+        message.channel.send(" My Token Is ``10`` ")
+    }
+});
+ 
 
 //???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
 
@@ -257,6 +359,62 @@ if (message.content === prefix+'fast') {
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
         message.channel.send(`gg`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+ client7.on('message', message => {
+if (message.content === prefix+'fast') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 30000; x++) {
+        message.channel.send('gg')
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+  client8.on('message', message => {
+if (message.content === prefix+'fast') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 30000; x++) {
+        message.channel.send('gg')
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+  client9.on('message', message => {
+if (message.content === prefix+'fast') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 30000; x++) {
+        message.channel.send('gg')
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+  client10.on('message', message => {
+if (message.content === prefix+'fast') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 30000; x++) {
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
