@@ -551,7 +551,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send('biwi twade3 m3a Clay o 7el l mic')
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
@@ -565,7 +565,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send('biwi twade3 m3a Clay o 7el l mic')
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
@@ -579,7 +579,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`biwi twade3 m3a Clay o 7el l mic`)
+        message.channel.send(`gg`)
           .then(m => {
             count++;
           })
@@ -593,7 +593,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`biwi twade3 m3a Clay o 7el l mic`)
+        message.channel.send(`gg`)
           .then(m => {
             count++;
           })
@@ -607,7 +607,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`biwi twade3 m3a Clay o 7el l mic`)
+        message.channel.send(`gg`)
           .then(m => {
             count++;
           })
@@ -621,7 +621,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`biwi twade3 m3a Clay o 7el l mic`)
+        message.channel.send(`gg`)
           .then(m => {
             count++;
           })
@@ -635,7 +635,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send('biwi twade3 m3a Clay o 7el l mic')
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
@@ -649,7 +649,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send('biwi twade3 m3a Clay o 7el l mic')
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
@@ -663,7 +663,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send('biwi twade3 m3a Clay o 7el l mic')
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
@@ -677,7 +677,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send('biwi twade3 m3a Clay o 7el l mic')
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
@@ -691,7 +691,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send('biwi twade3 m3a Clay o 7el l mic')
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
@@ -705,7 +705,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send('biwi twade3 m3a Clay o 7el l mic')
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
@@ -719,7 +719,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send('biwi twade3 m3a Clay o 7el l mic')
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
@@ -733,7 +733,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send('biwi twade3 m3a Clay o 7el l mic')
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
@@ -747,7 +747,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send('biwi twade3 m3a Clay o 7el l mic')
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
@@ -761,7 +761,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send('biwi twade3 m3a Clay o 7el l mic')
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
@@ -775,7 +775,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send('biwi twade3 m3a Clay o 7el l mic')
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
@@ -789,7 +789,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send('biwi twade3 m3a Clay o 7el l mic')
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
@@ -803,7 +803,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send('biwi twade3 m3a Clay o 7el l mic')
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
@@ -817,7 +817,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send('biwi twade3 m3a Clay o 7el l mic')
+        message.channel.send('gg')
           .then(m => {
             count++;
           })
