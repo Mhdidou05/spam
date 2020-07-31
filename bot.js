@@ -2,26 +2,26 @@ const Discord = require("discord.js");
 const myid = ['Mhdidou'];
               
 const prefix = ['!'];
-const client   = new Discord.Client();
-const client2  = new Discord.Client();
-const client3  = new Discord.Client();
-const client4  = new Discord.Client();
-const client5  = new Discord.Client();
-const client6  = new Discord.Client();
-const client7  = new Discord.Client();
-const client8  = new Discord.Client();
-const client9  = new Discord.Client();
-const client10 = new Discord.Client();
-const client11 = new Discord.Client();
-const client12 = new Discord.Client();
-const client13 = new Discord.Client();
-const client14 = new Discord.Client();
-const client15 = new Discord.Client();
-const client16 = new Discord.Client();
-const client17 = new Discord.Client();
-const client18 = new Discord.Client();
-const client19 = new Discord.Client();
-const client20 = new Discord.Client();
+const client = new Discord.Client();
+const client2= new Discord.Client();
+const client3= new Discord.Client();
+const client4= new Discord.Client();
+const client5= new Discord.Client();
+const client6= new Discord.Client();
+const client7= new Discord.Client();
+const client8= new Discord.Client();
+const client9= new Discord.Client();
+const client10= new Discord.Client();
+const client11= new Discord.Client();
+const client12= new Discord.Client();
+const client13= new Discord.Client();
+const client14= new Discord.Client();
+const client15= new Discord.Client();
+const client16= new Discord.Client();
+const client17= new Discord.Client();
+const client18= new Discord.Client();
+const client19= new Discord.Client();
+const client20= new Discord.Client();
 
 //???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
 
@@ -475,56 +475,67 @@ client6.on('message', message => {
         message.channel.send(" My Token Is ``9`` ")
     }
 });
+
     client10.on('message', message => {
     if(message.content === prefix+'number'){
         message.channel.send(" My Token Is ``10`` ")
     }
 });
+
     client11.on('message', message => {
     if(message.content === prefix+'number'){
         message.channel.send(" My Token Is ``11`` ")
     }
 });
+
     client12.on('message', message => {
     if(message.content === prefix+'number'){
         message.channel.send(" My Token Is ``12`` ")
     }
 });
+
     client13.on('message', message => {
     if(message.content === prefix+'number'){
         message.channel.send(" My Token Is ``13`` ")
     }
 });
+
     client14.on('message', message => {
     if(message.content === prefix+'number'){
         message.channel.send(" My Token Is ``14`` ")
     }
 });
+
     client15.on('message', message => {
     if(message.content === prefix+'number'){
         message.channel.send(" My Token Is ``15`` ")
     }
 });
+
     client16.on('message', message => {
     if(message.content === prefix+'number'){
         message.channel.send(" My Token Is ``16`` ")
     }
 });
+
     client17.on('message', message => {
     if(message.content === prefix+'number'){
         message.channel.send(" My Token Is ``17`` ")
     }
 });
+
     client18.on('message', message => {
     if(message.content === prefix+'number'){
         message.channel.send(" My Token Is ``18`` ")
     }
 });
+
     client19.on('message', message => {
     if(message.content === prefix+'number'){
         message.channel.send(" My Token Is ``19`` ")
     }
 });
+
     client20.on('message', message => {
     if(message.content === prefix+'number'){
         message.channel.send(" My Token Is ``20`` ")
@@ -676,6 +687,7 @@ if (message.content === prefix+'fast') {
         }
       }
 });
+
    client11.on('message', message => {
 if (message.content === prefix+'fast') {
       let count = 0;
@@ -689,6 +701,7 @@ if (message.content === prefix+'fast') {
         }
       }
 });
+
    client12.on('message', message => {
 if (message.content === prefix+'fast') {
       let count = 0;
@@ -702,6 +715,7 @@ if (message.content === prefix+'fast') {
         }
       }
 });
+
    client13.on('message', message => {
 if (message.content === prefix+'fast') {
       let count = 0;
@@ -715,6 +729,7 @@ if (message.content === prefix+'fast') {
         }
       }
 });
+
    client14.on('message', message => {
 if (message.content === prefix+'fast') {
       let count = 0;
@@ -728,6 +743,7 @@ if (message.content === prefix+'fast') {
         }
       }
 });
+
    client15.on('message', message => {
 if (message.content === prefix+'fast') {
       let count = 0;
@@ -741,6 +757,7 @@ if (message.content === prefix+'fast') {
         }
       }
 });
+
    client16.on('message', message => {
 if (message.content === prefix+'fast') {
       let count = 0;
@@ -754,6 +771,7 @@ if (message.content === prefix+'fast') {
         }
       }
 });
+
    client17.on('message', message => {
 if (message.content === prefix+'fast') {
       let count = 0;
@@ -767,6 +785,7 @@ if (message.content === prefix+'fast') {
         }
       }
 });
+
    client18.on('message', message => {
 if (message.content === prefix+'fast') {
       let count = 0;
@@ -780,6 +799,7 @@ if (message.content === prefix+'fast') {
         }
       }
 });
+
    client19.on('message', message => {
 if (message.content === prefix+'fast') {
       let count = 0;
@@ -793,6 +813,7 @@ if (message.content === prefix+'fast') {
         }
       }
 });
+
    client20.on('message', message => {
 if (message.content === prefix+'fast') {
       let count = 0;
