@@ -685,4 +685,16 @@ if (message.content === prefix+'fast') {
         }
       }
 });
-
+   client19.on('message', message => {
+if (message.content === prefix+'fast') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 30000; x++) {
+        message.channel.send('gg')
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
